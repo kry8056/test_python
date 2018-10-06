@@ -4,6 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
+# This is just simple example of color space transform and image plotting
 import cv2
 import matplotlib.pyplot as plt
 # %matplotlib
